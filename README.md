@@ -21,6 +21,7 @@
  
 <img align="left" src="https://github.com/Noel6161131110/Object_Detection_using_OpenCV/blob/main/assets/street_1(result).png" width="400"/>
  
+<br>
 
 <img align="left" src="https://github.com/Noel6161131110/Object_Detection_using_OpenCV/blob/main/assets/street_2.png" width="500"/>
  
